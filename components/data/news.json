@@ -1,0 +1,128 @@
+[
+	{
+		"id": 1,
+		"content": "Two papers are accepted by ACM MM'25.",
+		"date": "2025-07",
+		"isNew": true,
+		"links": []
+	},
+	{
+		"id": 2,
+		"content": "One paper is accepted by Chinese Journal of Engineering.",
+		"date": "2025-05",
+		"isNew": true,
+		"links": []
+	},
+	{
+		"id": 3,
+		"content": "Yunqing Chen wins the Best Paper Award of the Brain-X.",
+		"date": "2025-01",
+		"isNew": true,
+		"links": []
+	},
+	{
+		"id": 4,
+		"content": "Yunqing Chen wins the Top 10 Academic Stars of University of Science and Technology Beijing.",
+		"date": "2024-11",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 5,
+		"content": "One paper is accepted by CMPB.",
+		"date": "2024-11",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 6,
+		"content": "Yunqing Chen wins the National Scholarship.",
+		"date": "2024-11",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 7,
+		"content": "Duoyou Chen wins the National Scholarship.",
+		"date": "2024-11",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 8,
+		"content": "Yize Song wins the Special Scholarship.",
+		"date": "2024-11",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 9,
+		"content": "One paper is accepted by RSI.",
+		"date": "2024-08",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 10,
+		"content": "One paper is accepted by BSPC.",
+		"date": "2024-01",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 11,
+		"content": "One paper is accepted by IF.",
+		"date": "2023-12",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 12,
+		"content": "Siyu Qi wins the National Scholarship.",
+		"date": "2023-11",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 13,
+		"content": "Yunqing Chen wins the Special Scholarship.",
+		"date": "2023-11",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 14,
+		"content": "One paper is accepted by Brain-X.",
+		"date": "2023-08",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 15,
+		"content": "One paper is accepted by ACM MM'23.",
+		"date": "2023-07",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 16,
+		"content": "One paper is accepted by CMIG.",
+		"date": "2023-04",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 17,
+		"content": "One paper is accepted by CMPB.",
+		"date": "2023-03",
+		"isNew": false,
+		"links": []
+	},
+	{
+		"id": 18,
+		"content": "One paper is accepted by PMB.",
+		"date": "2023-01",
+		"isNew": false,
+		"links": []
+	}
+]

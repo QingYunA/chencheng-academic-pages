@@ -1,8 +1,8 @@
 {
-    "title": "Harry Potter",
-    "name": "Harry James Potter",
+    "title": "Cheng Chen",
+    "name": "Cheng Chen / 陈 诚",
     "domain":"https://nextjs-academic-theme.vercel.app/",
-    "copyright":"harrypotter.me",
+    "copyright":"chencheng.me",
     "socialMedia": {
         "Twitter": "https://twitter.com/",
         "LinkedIn": "https://www.linkedin.com/",
@@ -22,7 +22,7 @@
             "name": "Albus Dumbledor",
             "link": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
         },
-        "email": "harrypotter AT MyUniversity",
+        "email": "chencheng@ustb.edu.cn",
         "interest": "Defense against Dark Arts Spell; Dark Creatures"
     },
     "love": "https://harrypotter.fandom.com/wiki/James_and_Lily_Potter",
