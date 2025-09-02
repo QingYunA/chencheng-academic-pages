@@ -342,12 +342,12 @@
 	},
 
 	{
-		"id": 19,
-		"author": "H Zou, C Chen, M Zha, K Zhou, R Xiao, Y Peng, L Qiu, X Zhang, Z Wang",
-		"title": "A neural regression model for predicting thermal conductivity of CNT nanofluids",
-		"conference": "Journal of Thermal Science",
-		"year": "2021",
-		"image": "/images/publications/21-8-A Neural Regression.png",
+		"id": 20,
+		"author": "X Guo, R Xiao, T Zhang, C Chen, J Wang, Z Wang",
+		"title": "A novel method to model hepatic vascular network using vessel segmentation, skeleton extraction and topology optimization",
+		"conference": "Medical & Biological Engineering & Computing",
+		"year": "2020",
+		"image": "/images/publications/20-3-A novel.png",
 		"links": [
 			{
 				"name": "pdf",
@@ -361,12 +361,50 @@
 	},
 
 	{
-		"id": 20,
-		"author": "X Guo, R Xiao, T Zhang, C Chen, J Wang, Z Wang",
-		"title": "A novel method to model hepatic vascular network using vessel segmentation, skeleton extraction and topology optimization",
-		"conference": "Medical & Biological Engineering & Computing",
-		"year": "2020",
-		"image": "/images/publications/20-3-A novel.png",
+		"id": 21,
+		"author": "C Zhang, D Chen, Y Chen, R Xiao, C Chen",
+		"title": "DU-Net: A Collaborative Optimization Model for Small-Sample Cerebrovascular Segmentation",
+		"conference": "Chinese Journal of Engineering",
+		"year": "2025",
+		"image": "/images/publications/25-3-DU-Net.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 22,
+		"author": "Y Song, Y Chen, Z Wang, C Chen, R Xiao",
+		"title": "Symmetrical Awareness Generation for Pelvic Image Segmentation",
+		"conference": "ACM MM 2025",
+		"year": "2025",
+		"image": "/images/publications/25-2-Symmetrical Awareness Generation.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 23,
+		"author": "D Chen, Y Chen, C Zhang, Z Wang, C Chen, R Xiao",
+		"title": "Latent Space Consistency for Sparse-View CT Reconstruction",
+		"conference": "ACM MM 2025",
+		"year": "2025",
+		"image": "/images/publications/25-1-Latent Space Consistency.png",
 		"links": [
 			{
 				"name": "pdf",

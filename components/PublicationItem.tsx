@@ -44,7 +44,7 @@ const PublicationItem = ({publication, index}: Props): JSX.Element => {
                     </h3>
                     
                     <p className="text-gray-600 dark:text-gray-300 mb-2">
-                        {highlightAuthor(publication.author)}
+                        {publication.author}
                     </p>
                     
                     <p className="text-sm text-gray-500 dark:text-gray-400 mb-2">
