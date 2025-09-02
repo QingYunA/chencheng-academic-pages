@@ -19,7 +19,7 @@ interface CurrentStudent {
 const TeamList = (): JSX.Element => {
     return (
         <section className="grid w-full scroll-mt-12" id="team">
-            <h2 className="text-3xl font-bold mt-12 mb-4">Team</h2>
+            <h1 className="text-5xl font-bold mt-8 mb-8 text-center">Team</h1>
             
             {/* 毕业生部分 */}
             <div className="mb-8">
