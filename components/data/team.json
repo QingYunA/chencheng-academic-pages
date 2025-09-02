@@ -1,0 +1,126 @@
+{
+    "_comments": {
+        "usage": "这是团队成员数据文件",
+        "degrees": {
+            "PhD": "博士生，显示为淡粉色背景",
+            "Postgraduate": "研究生/硕士生，显示为浅蓝色背景", 
+            "Undergraduate": "本科生，显示为浅黄色背景"
+        },
+        "sorting": "现在学生会自动按学位排序：PhD > Postgraduate > Undergraduate",
+        "templates": {
+            "phd_student": {
+                "name": "Student Name (English)",
+                "chineseName": "学生姓名（中文）",
+                "degree": "PhD",
+                "year": "入学年份，如2024"
+            },
+            "graduate": {
+                "name": "Graduate Name (English)",
+                "chineseName": "毕业生姓名（中文）",
+                "degree": "学位类型，如B.S., Master, PhD",
+                "graduationYear": "毕业年份",
+                "destination": "去向（中文）",
+                "destinationEn": "去向（英文，可选）"
+            }
+        }
+    },
+    "graduates": [
+        {
+            "name": "Jianan Wang",
+            "chineseName": "王佳楠",
+            "degree": "B.S.",
+            "graduationYear": "2022",
+            "destination": "国防科技大学 [直博生]",
+            "destinationEn": "National University of Defense Technology [PhD]"
+        },
+        {
+            "name": "Biyao Yin",
+            "chineseName": "殷碧瑶",
+            "degree": "B.S.",
+            "graduationYear": "2023",
+            "destination": "图卢兹第一大学 [硕士生]",
+            "destinationEn": "University Toulouse Capitole [Master]"
+        },
+        {
+            "name": "Siyu Qi",
+            "chineseName": "齐思雨",
+            "degree": "Master",
+            "graduationYear": "2024",
+            "destination": "联通数字科技有限公司",
+            "destinationEn": "China Unicom Digital Technology Co., Ltd."
+        },
+        {
+            "name": "Yunqing Chen",
+            "chineseName": "陈云青",
+            "degree": "Master",
+            "graduationYear": "2025",
+            "destination": "深信服科技股份有限公司 创新研究院",
+            "destinationEn": "Innovation Research Institute, Sangfor Technologies Inc."
+        },
+        {
+            "name": "Xiaoheng Li",
+            "chineseName": "李骁恒",
+            "degree": "Master",
+            "graduationYear": "2025",
+            "destination": "中国移动通信集团天津有限公司",
+            "destinationEn": "China Mobile Communications Group Tianjin Co., Ltd."
+        }
+    ],
+    "_phdTemplate": {
+        "_note": "PhD学生模板 - 目前没有PhD学生，以后有了可以参考这个格式",
+        "name": "PhD Student Name",
+        "chineseName": "博士生姓名", 
+        "degree": "PhD",
+        "year": "入学年份如2024"
+    },
+    "currentStudents": [
+        {
+            "name": "Yize Song",
+            "chineseName": "宋依泽",
+            "degree": "Postgraduate",
+            "year": "2023"
+        },
+        {
+            "name": "Yingying Pan",
+            "chineseName": "潘莹莹",
+            "degree": "Postgraduate",
+            "year": "2024"
+        },
+        {
+            "name": "Yaxue Guo",
+            "chineseName": "郭雅雪",
+            "degree": "Postgraduate",
+            "year": "2024"
+        },
+        {
+            "name": "Xun Cao",
+            "chineseName": "曹迅",
+            "degree": "Postgraduate",
+            "year": "2024"
+        },
+        {
+            "name": "Siyi Shi",
+            "chineseName": "史思怡",
+            "degree": "Postgraduate",
+            "year": "2025"
+        },
+        {
+            "name": "Duoyou Chen",
+            "chineseName": "陈铎友",
+            "degree": "Undergraduate",
+            "year": "2022"
+        },
+        {
+            "name": "Can Zhang",
+            "chineseName": "张灿",
+            "degree": "Undergraduate",
+            "year": "2022"
+        },
+        {
+            "name": "Zhou Wang",
+            "chineseName": "王周",
+            "degree": "Undergraduate",
+            "year": "2022"
+        }
+    ]
+}

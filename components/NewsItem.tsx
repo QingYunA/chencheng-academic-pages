@@ -18,7 +18,7 @@ interface Props {
 
 const NewsItem = ({ news, index }: Props): JSX.Element => {
     return (
-        <div className="mt-4 mb-8">
+        <div className="mt-3 mb-4">
             <div className="flex items-center gap-2 mb-2">
                 {news.isNew && (
                     <span className="bg-red-500 text-white text-xs px-2 py-1 rounded font-bold">
