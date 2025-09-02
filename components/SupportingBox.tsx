@@ -21,23 +21,25 @@ const Box = ({href, label, onClick, children}: BoxProps) => (
     </a>
 );
 
+const TextBox = ({href, label, text}: {href: string, label: string, text: string}) => (
+    <a target="_blank"
+        rel="noopener noreferrer"
+        href={href}
+        aria-label={label}
+        className="flex items-center justify-center cursor-pointer transition-colors hover:bg-gray-300 dark:hover:bg-gray-600 rounded-md select-none px-2 h-7 text-xs font-semibold text-gray-700 dark:text-gray-300 whitespace-nowrap"
+        title={label}>
+        {text}
+    </a>
+);
+
 const SupportingBox = (): JSX.Element => {
     return (
-        <div className="flex justify-between w-44 dark:invert">
-            <div className="flex justify-between w-44">
-                <Box href="/cv.pdf" label="CV">
-                    <IconImage path='/images/cv-file-interface-symbol-svgrepo-com.svg' name="CV"/>
-                </Box>
-                <Box href={personalInfo.socialMedia.Twitter} label="Twitter">
-                    <IconImage path='/images/icons8-twitter.svg' name="Twitter"/>
-                </Box>
-                <Box href={personalInfo.socialMedia.LinkedIn} label="LinkedIn">
-                    <IconImage path='/images/icons8-linkedin.svg' name="LinkedIn"/>
-                </Box>
-                <Box href={personalInfo.socialMedia.GoogleScholar} label="GoogleScholar">
-                    <IconImage path='/images/icons8-google-scholar.svg' name="GoogleScholar"/>
-                </Box>
-            </div>
+        <div className="flex items-center gap-3 dark:invert">
+            <TextBox href="https://scce.ustb.edu.cn/" label="School Homepage" text="School"/>
+            <TextBox href="https://www.ustb.edu.cn/" label="University Homepage" text="University"/>
+            <Box href={personalInfo.socialMedia.GoogleScholar} label="Google Scholar Profile">
+                <IconImage path='/images/icons8-google-scholar.svg' name="GoogleScholar"/>
+            </Box>
         </div>
         );
 };
