@@ -1,9 +1,11 @@
 [
 	{
-		"id": 5,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Towards Generalized Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"id": 1,
+		"author": "Y Chen, C Chen, X Li, X Xiao",
+		"title": "SLAM: Spatial Intensity Awareness Module for Cardiovascular Segmentation",
+		"conference": "Computer Methods and Programs in Biomedicine",
+		"year": "2025",
+		"image": "/images/publications/25-1-SIAM.png",
 		"links": [
 			{
 				"name": "pdf",
@@ -11,52 +13,6 @@
 			},
 			{
 				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
-	{
-		"id": 4,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Rethinking Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
-	{
-		"id": 3,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Pushing the Limits of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
 				"url": ""
 			}
 		]
@@ -64,9 +20,11 @@
 
 	{
 		"id": 2,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Defensing Against the Dark Arts Spells based on Reductor Curse",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "X Li, C Chen, Y Chen, M Yu, R Xiao",
+		"title": "MSAR-Net: A multi-scale attention residual network for medical image segmentation",
+		"conference": "Biomedical Signal Processing and Control",
+		"year": "2025",
+		"image": "/images/publications/25-2-MSAR-Net.png",
 		"links": [
 			{
 				"name": "pdf",
@@ -74,20 +32,18 @@
 			},
 			{
 				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
 				"url": ""
 			}
 		]
 	},
 
 	{
-		"id": 1,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "A Survey of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"id": 3,
+		"author": "Z Zhang, P Zhang, L Mao, C Chen, H Ning",
+		"title": "DFS-WR: A novel dual feature selection and weighting representation framework for classification",
+		"conference": "Information Fusion",
+		"year": "2024",
+		"image": "/images/publications/24-1-DFS-WR.png",
 		"links": [
 			{
 				"name": "pdf",
@@ -96,9 +52,328 @@
 			{
 				"name": "slides",
 				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 4,
+		"author": "C Chen, T Song, D Chen, J Zhang, H Ning, R Xiao",
+		"title": "Design and application of pneumatic rehabilitation glove system based on brain-computer interface",
+		"conference": "Review of Scientific Instruments",
+		"year": "2024",
+		"image": "/images/publications/24-4-Design.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
 			},
 			{
-				"name": "video",
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 5,
+		"author": "C Chen, K Zhou, Z Wang, J Zhang, R Xiao",
+		"title": "All answers are in the images: A review of deep learning for cerebrovascular segmentation",
+		"conference": "Computerized Medical Imaging and Graphics",
+		"year": "2023",
+		"image": "/images/publications/23-1-AII answers.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 6,
+		"author": "Cheng Chen, Huilin Wang, Yunqing Chen, Zihan Yin, Xinye Yang, Huansheng Ning, Qian Zhang, Weiguang Li, Ruoxiu Xiao, Jizong Zhao",
+		"title": "Understanding the brain attention: A survey of transformers in brain sciences",
+		"conference": "Brain-X",
+		"year": "2023",
+		"image": "/images/publications/23-2-understanding.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 7,
+		"author": "H Chen, M Yu, C Chen, K Zhou, S Qi, Y Chen, R Xiao",
+		"title": "FDE-net: Frequency-domain enhancement network for thyroid nodule segmentation",
+		"conference": "Computers in Biology and Medicine",
+		"year": "2023",
+		"image": "/images/publications/23-3-FED-net.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 8,
+		"author": "C Chen, S Qi, K Zhou, T Lu, H Ning, R Xiao",
+		"title": "Pairwise attention-enhanced adversarial model for automatic bone segmentation in CT",
+		"conference": "Physics in Medicine & Biology",
+		"year": "2023",
+		"image": "/images/publications/23-4-Pairwise.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 9,
+		"author": "C Chen, K Zhou, T Lu, H Ning, R Xiao",
+		"title": "Integration and separation: A ware adversarial model for cerebrovascular segmentation",
+		"conference": "Computer Methods and Programs in Biomedicine",
+		"year": "2023",
+		"image": "/images/publications/23-5-Integration.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 10,
+		"author": "C Chen, K Zhou, S Qi, T Lu, R Xiao",
+		"title": "A learnable Gabor Convolutional Network for vessel segmentation",
+		"conference": "Computers in Biology and Medicine",
+		"year": "2023",
+		"image": "/images/publications/23-6-A learnable.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 11,
+		"author": "C Chen, Y Chen, S Song, J Wang, H Ning, R Xiao",
+		"title": "Cerebrovascular segmentation in TOF-MRA with topology regularization adversarial model",
+		"conference": "ACM MM 2023",
+		"year": "2023",
+		"image": "/images/publications/23-7-Cerebrovascular.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 12,
+		"author": "C Chen, K Zhou, Z Wang, R Xiao",
+		"title": "Generative consistency for semi-supervised cerebrovascular segmentation from TOF-MRA",
+		"conference": "IEEE Transactions on Medical Imaging",
+		"year": "2022",
+		"image": "/images/publications/22-1-Generative.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 13,
+		"author": "C Chen, K Zhou, X Guo, Z Wang, G Xiao, G Wang",
+		"title": "Cerebrovascular segmentation in phase contrast MRA by multi-feature fusion and vessel completion",
+		"conference": "Computerized Medical Imaging and Graphics",
+		"year": "2022",
+		"image": "/images/publications/22-2-Cerebrovascular.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 14,
+		"author": "C Chen, K Zhou, H Wang, Y Li, Z Wang, R Xiao, T Lu",
+		"title": "TMSF-Net: Multi-series fusion network with treoconnect for colorectal tumor segmentation",
+		"conference": "Computer Methods and Programs in Biomedicine",
+		"year": "2022",
+		"image": "/images/publications/22-3-TMSF-Net.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 15,
+		"author": "C Chen, K Zhou, M Zha, X Du, X Guo, H Chen, J Wang, R Xiao",
+		"title": "An effective deep neural network for lung lesions segmentation from COVID-19 CT images",
+		"conference": "IEEE Transactions on Industrial Informatics",
+		"year": "2021",
+		"image": "/images/publications/21-1-An Effective Deep.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 16,
+		"author": "X Guo, R Xiao, Y Lu, C Chen, T Yan, A Zhou, R He, Z Wang",
+		"title": "Cerebrovascular segmentation from TOF-MRA based on multiple-U-net with local loss function",
+		"conference": "Computer Methods and Programs in Biomedicine",
+		"year": "2021",
+		"image": "/images/publications/21-2-Cerebrovascular.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 17,
+		"author": "C Chen, R Xiao, T Zhang, Y Lu, X Guo, J Wang, H Chen, Z Wang",
+		"title": "Pathological lung segmentation in chest CT images based on improved random walker",
+		"conference": "Computer Methods and Programs in Biomedicine",
+		"year": "2021",
+		"image": "/images/publications/21-4-Pathological.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 18,
+		"author": "C Chen, B Liu, K Zhou, W He, T Yan, Z Wang, R Xiao",
+		"title": "CSR-Net: Cross-Scale Residual Network for scaphoid fracture segmentation",
+		"conference": "Computers in Biology and Medicine",
+		"year": "2021",
+		"image": "/images/publications/21-5-CSR-Net.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 19,
+		"author": "H Zou, C Chen, M Zha, K Zhou, R Xiao, Y Peng, L Qiu, X Zhang, Z Wang",
+		"title": "A neural regression model for predicting thermal conductivity of CNT nanofluids",
+		"conference": "Journal of Thermal Science",
+		"year": "2021",
+		"image": "/images/publications/21-8-A Neural Regression.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 20,
+		"author": "X Guo, R Xiao, T Zhang, C Chen, J Wang, Z Wang",
+		"title": "A novel method to model hepatic vascular network using vessel segmentation, skeleton extraction and topology optimization",
+		"conference": "Medical & Biological Engineering & Computing",
+		"year": "2020",
+		"image": "/images/publications/20-3-A novel.png",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
 				"url": ""
 			}
 		]
