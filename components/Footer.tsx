@@ -8,7 +8,7 @@ const Footer = (): JSX.Element => {
     return (
         <footer>
             <div className="mb-9 pb-0 pl-6 max-w-4xl flex items-center justify-between text-sm opacity-60 m-auto pt-20 pr-5">
-                <p> &copy; {new Date().getFullYear()}. {personalInfo.copyright}</p>
+                {/* <p> &copy; {new Date().getFullYear()}. {personalInfo.copyright}</p> */}
                 <SupportingBox></SupportingBox>
             </div>
             
